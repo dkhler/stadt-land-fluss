@@ -17,6 +17,8 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
+    "react-redux": "^7.0.1",
+    "redux": "^4.0.1",
     "spectre.css": "^0.5.8"
   },
   "repository": {

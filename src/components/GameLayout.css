@@ -1,0 +1,9 @@
+.container {
+    background-color: #F1ECE6;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.active-letter {
+    font-size: 2em;
+}

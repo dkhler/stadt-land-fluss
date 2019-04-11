@@ -2,22 +2,12 @@ body {
     background-color: #21363F !important;
 }
 
-.content {
-    background-color: #F1ECE6;
-    border-radius: 5px;
-    margin-top: 50px;
-}
-
 .btn {
     touch-action: none;
 }
 
-.mainletter {
-    font-size: 2em;
-}
-
 .nonselect {
-    -webkit-user-select: none; /* Safari */        
+    -webkit-user-select: none; /* Safari */
     -moz-user-select: none; /* Firefox */
     -ms-user-select: none; /* IE10+/Edge */
     user-select: none; /* Standard */
@@ -47,7 +37,7 @@ body {
     border-color: transparent;
     color: #3b4351;
   }
-  
+
   .btn.btn-blanko:focus,
   .btn.btn-blanko:hover,
   .btn.btn-blanko:active,
@@ -57,6 +47,6 @@ body {
     color: #3b4351;
   }
 
-.divider-dark{
+.divider-dark {
     border-top: .05rem solid #3b4351 !important;
 }
